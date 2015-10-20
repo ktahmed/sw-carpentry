@@ -1,0 +1,5 @@
+for version control, you can use git
+"git init" command makes a new repository. no quotation
+"git status" gives you status of the file. no quotation
+"git add fileName" activate the file to be changed
+
