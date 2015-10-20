@@ -2,4 +2,8 @@ for version control, you can use git
 "git init" command makes a new repository. no quotation
 "git status" gives you status of the file. no quotation
 "git add fileName" activate the file to be changed
-
+"git commit -m "version name/ message for change or idea of change for future reference.txt"" to commit change
+"git log" gives you log of changes
+"rm filname.extention" removes the file from tracking
+"git diff filename.extention" shows which changes are made.
+Put some comeents to see changes 
