@@ -10,6 +10,16 @@ for version control, you can use git
 "git log" shows the log of all the changes
 "git diff HEAD~1 Filename.ext" shows changes between the last commit and last commit-1. You can change the number for seeing difference between different versions
 "git checkout HEAD~1 FileName.ext" go back one stage.
+"git checkout firstfewnumbers filename.txt" takes you to specific file, an alternative to use HEAD
+"git checkout -b example" makes a new branch
+"git branch" shows you branches
+"git merge branchName" merge different brances
+
+
+
+
+
+
 Put some comments to see changes 
 
 
@@ -17,3 +27,5 @@ Put some comments to see changes
 
 
 New things for changes and versions
+
+get a new branch
