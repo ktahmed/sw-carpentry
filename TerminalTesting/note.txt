@@ -9,6 +9,7 @@ for version control, you can use git
 "git reset" takes out the add stage
 "git log" shows the log of all the changes
 "git diff HEAD~1 Filename.ext" shows changes between the last commit and last commit-1. You can change the number for seeing difference between different versions
+"git checkout HEAD~1 FileName.ext" go back one stage.
 Put some comments to see changes 
 
 
