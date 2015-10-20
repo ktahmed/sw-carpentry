@@ -1,0 +1,113 @@
+    1  who am i
+    2  whereami
+    3  pwd
+    4  ls
+    5  clear
+    6  man
+    7  man ls
+    8* man ls
+    9  h
+   10  q
+   11  q
+   12  ls /g
+   13  ls /
+   14  ls /
+   15  ls /
+   16  ls /
+   17  clear
+   18  ls /
+   19  pwd
+   20  ls /
+   21  ls dev
+   22  ls .
+   23  ls ..
+   24  ls
+   25  ls / ../
+   26  ls/ ../ Public
+   27  ls ../ document
+   28  ls ../
+   29  ls
+   30  ls / .. / Documents
+   31  ls / documents/downloads
+   32  pwd
+   33  ls
+   34  ls / Documents
+   35  ls / . / documents
+   36  ls / Adobe\ Photoshop\ CS
+   37  clear
+   38  ls
+   39  ls / Documents/
+   40  cd/
+   41  cd ~
+   42  pwd
+   43  cd / Users/User
+   44  cd Desktop
+   45  pwd
+   46  pwd
+   47  cd / desktop
+   48  pwd
+   49  ls
+   50  pwd
+   51  pwd
+   52  cd / desktop
+   53  cd / Desktop
+   54  pwd
+   55  cd Desktop
+   56  cd Users / User
+   57  ls
+   58  pwd
+   59  cd ~
+   60  pwd
+   61  ls
+   62  cd Desktop/
+   63  pwd
+   64  ls
+   65  cd ~
+   66  cd Desktop/
+   67  mkdir SoftwareCarpentry
+   68  ls
+   69  cd SoftwareCarpentry/
+   70  pwd
+   71  mkdir Terminal Testing
+   72  mkdir TerminalTesting
+   73  cd TerminalTesting
+   74  nano ImportantIdeas
+   75  ls
+   76  nano ImportantIdeas 
+   77  ls
+   78  mkdir NewFolder / New Folder
+   79  cat ImportantIdeas 
+   80  cp ImportantIdeas ../
+   81  ls
+   82  ls ../
+   83  pwd
+   84  rm ./
+   85  cd ../
+   86  rm TerminalTesting/
+   87  ls
+   88  cp ImportantIdeas ImportantIdeas.txt
+   89  ls
+   90  rm ImportantIdeas
+   91  mv ImportantIdeas.txt ImportantIdeas
+   92  rm ImportantIdeas
+   93  ls
+   94  nano ImportantIdeas
+   95  ls
+   96  ls
+   97  cd TerminalTesting/
+   98  ls
+   99  cat pg2701.txt 
+  100  head -10 pg2701.txt 
+  101  mv pg2701.txt MobyDick.txt
+  102  curl -L -O http://www.gutenberg.org/cache/epub/2701/pg2701.txt
+  103  grep whale MobyDick.txt 
+  104  -n grep whale MobyDick.txt 
+  105  wc MobyDick.txt 
+  106  wc MobyDick.txt  > MobiDickCount.txt
+  107  ls
+  108  cat MobiDickCount.txt 
+  109  history
+  110  cat history
+  111  istory
+  112  history
+  113  history > history.txt
